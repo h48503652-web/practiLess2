@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\bin\Debug\net8.0\practiLess2.exe
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\bin\Debug\net8.0\practiLess2.deps.json
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\bin\Debug\net8.0\practiLess2.runtimeconfig.json
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\bin\Debug\net8.0\practiLess2.dll
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\bin\Debug\net8.0\practiLess2.pdb
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\obj\Debug\net8.0\practiLess2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\obj\Debug\net8.0\practiLess2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\obj\Debug\net8.0\practiLess2.AssemblyInfo.cs
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\obj\Debug\net8.0\practiLess2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\obj\Debug\net8.0\practiLess2.dll
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\obj\Debug\net8.0\refint\practiLess2.dll
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\obj\Debug\net8.0\practiLess2.pdb
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\obj\Debug\net8.0\practiLess2.genruntimeconfig.cache
+C:\Users\Admin\Documents\פרקטיקוד\practiLess2\practiLess2\obj\Debug\net8.0\ref\practiLess2.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\practiLess2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFDBC3A-FFDE-4B73-BC4B-F16C9344123C}|practiLess2\\practiLess2.csproj|c:\\users\\admin\\documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\practiless2\\practiless2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFDBC3A-FFDE-4B73-BC4B-F16C9344123C}|practiLess2\\practiLess2.csproj|solutionrelative:practiless2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFDBC3A-FFDE-4B73-BC4B-F16C9344123C}|practiLess2\\practiLess2.csproj|c:\\users\\admin\\documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\practiless2\\practiless2\\practiless2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AFDBC3A-FFDE-4B73-BC4B-F16C9344123C}|practiLess2\\practiLess2.csproj|solutionrelative:practiless2\\practiless2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "practiLess2.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\practiLess2\\practiLess2\\practiLess2.csproj",
+              "RelativeDocumentMoniker": "practiLess2\\practiLess2.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\practiLess2\\practiLess2\\practiLess2.csproj",
+              "RelativeToolTip": "practiLess2\\practiLess2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T22:52:30.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\practiLess2\\practiLess2\\Program.cs",
+              "RelativeDocumentMoniker": "practiLess2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\practiLess2\\practiLess2\\Program.cs*",
+              "RelativeToolTip": "practiLess2\\Program.cs*",
+              "ViewState": "AgIAAEgCAAAAMDMzMzPrv5YCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:17:51.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
