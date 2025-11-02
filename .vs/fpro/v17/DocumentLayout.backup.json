@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\practicode\\fpro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDAD17C-FF4D-458B-B20E-E54FCD12EB27}|fpro\\fpro.csproj|c:\\users\\admin\\desktop\\practicode\\fpro\\fpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDAD17C-FF4D-458B-B20E-E54FCD12EB27}|fpro\\fpro.csproj|solutionrelative:fpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDAD17C-FF4D-458B-B20E-E54FCD12EB27}|fpro\\fpro.csproj|c:\\users\\admin\\desktop\\practicode\\fpro\\fpro\\fpro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBDAD17C-FF4D-458B-B20E-E54FCD12EB27}|fpro\\fpro.csproj|solutionrelative:fpro\\fpro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fpro.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\practicode\\fpro\\fpro\\fpro.csproj",
+              "RelativeDocumentMoniker": "fpro\\fpro.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\practicode\\fpro\\fpro\\fpro.csproj",
+              "RelativeToolTip": "fpro\\fpro.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T19:23:39.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\practicode\\fpro\\fpro\\Program.cs",
+              "RelativeDocumentMoniker": "fpro\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\practicode\\fpro\\fpro\\Program.cs",
+              "RelativeToolTip": "fpro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:17:24.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

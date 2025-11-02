@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0bFX/8jpJd8=",
+  "success": true,
+  "projectFilePath": "D:\\practicode\\fpro\\fpro\\fpro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
